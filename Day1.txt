@@ -1,0 +1,22 @@
+Commands for the terminal:
+touch
+cat
+mkdir
+cd
+ls
+rm
+mv
+pwd
+cp
+
+
+Git Basic Commands:
+git inti
+git add
+git commit -m "Message"
+git remote add origin "remote url"
+git push origin master
+git pull origin master
+git status
+git diff
+git log
