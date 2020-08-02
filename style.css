@@ -1,0 +1,18 @@
+article {
+    background-color: khaki;
+    margin: 2rem auto;
+    max-width: 33rem;
+    padding: 1rem;
+}
+
+section {
+    background-color: rgba( 255, 255, 255, .3 );
+    padding: 1rem;
+    position: relative;
+}
+
+h2 {
+    left: 2rem;
+    bottom: 2rem;
+    position: fixed;
+}
